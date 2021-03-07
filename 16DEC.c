@@ -31,4 +31,5 @@ int main()
    	int a=0;
 	int b=(++a)+(++a);
 	printf("a=%d\nb=%d\n",a,b);
+	printf("This is amazing");
 }
